@@ -3,9 +3,9 @@
 ## About the Project
 
 This project is a personal portfolio website developed as part of
-CSN1101 Assignment One.
+CSN1101 CAT 02.
 
-The website introduces me, my academic programme, interests and
+The website introduces me, my academic programme, my projects, interests and
 professional goals.
 
 ## Technologies Used
@@ -20,6 +20,7 @@ professional goals.
 
 - Home
 - About Me
+- Projects
 - Interests
 - Contact
 
@@ -37,4 +38,4 @@ https://github.com/collo22017/collins-portfolio
 
 ### Vercel
 
-Add your Vercel link here.
+collins-portofolio-tawny.vercel.app
