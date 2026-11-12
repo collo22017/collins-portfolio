@@ -38,4 +38,4 @@ https://github.com/collo22017/collins-portfolio
 
 ### Vercel
 
-collins-portfolio-tawny.vercel.app
+https://collins-portfolio-tawny.vercel.app/
